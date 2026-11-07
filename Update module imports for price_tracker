@@ -1,0 +1,2 @@
+from modules.pdf_converter import convert_pdf_to_text  # replace with your actual function/class
+from modules.price_tracker import check_price          # replace with your actual function/class
